@@ -1,0 +1,15 @@
+Sum usando sum.in
+    Sum = 3220
+    Tempo = 53431 ms
+
+Sum paralelizado usando sum.in
+    Sum = ?
+    Tempo = ?
+
+Sum usando example.in
+    Sum = 3112
+    Tempo = 164ms
+
+Sum paralelizado usando example.in
+    Sum = 
+    Tempo = 
